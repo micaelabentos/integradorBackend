@@ -1,0 +1,357 @@
+[2022-12-12 12:34:56] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:35:03] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 12:36:04] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:36:09] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 12:36:11] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:36:12] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:36:14] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:36:14] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 1
+[2022-12-12 12:36:14] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:36:27] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 12:36:29] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:36:30] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:36:36] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:36:36] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del paciente con id = 1
+[2022-12-12 12:36:36] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:36:43] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:36:43] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:36:43] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 12:36:45] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:36:46] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 12:36:50] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 12:36:50] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:36:50] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:36:50] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 12:36:50] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:37:35] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:40:10] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:40:40] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:41:15] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:41:17] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:41:20] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:41:25] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 12:41:33] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:41:34] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:41:40] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:41:40] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 1
+[2022-12-12 12:41:40] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:41:55] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 1
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:48:55] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 1
+[2022-12-12 12:48:55] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del paciente con id = 1
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:49:10] [ WARN ] [OdontologoService:39] Se realizo una operación de eliminación del paciente con id = 1
+[2022-12-12 12:49:10] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 12:49:24] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 12:49:24] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 12:50:34] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:50:37] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:50:39] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:50:41] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:52:16] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 12:52:30] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:52:37] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Alvarez
+[2022-12-12 12:52:41] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:52:42] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 2
+[2022-12-12 12:52:49] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 2
+[2022-12-12 12:52:49] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 2
+[2022-12-12 12:52:49] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:53:01] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 12:53:02] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 12:53:09] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:53:11] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:53:31] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:53:52] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:54:00] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:54:02] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:54:05] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:54:06] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:54:07] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 12:54:07] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:01:37] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:01:42] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:01:45] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Diaz
+[2022-12-12 13:01:46] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:01:53] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 1
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:03:28] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 1
+[2022-12-12 13:03:28] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del paciente con id = 1
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:03:42] [ WARN ] [OdontologoService:39] Se realizo una operación de eliminación del paciente con id = 1
+[2022-12-12 13:03:42] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:03:54] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:03:54] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:28] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:05:28] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:53] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:05:53] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:05:53] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:05:53] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:54] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:05:54] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:05:54] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:54] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:05:54] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:05:54] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:07:34] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:07:40] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:07:42] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:07:45] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:08:30] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:09:37] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:11:53] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:14:37] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:17:04] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:17:04] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:17:04] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:17:04] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:17:04] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:17:05] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:17:05] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:17:05] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:17:05] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:22:56] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:22:56] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:22:56] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:22:56] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:22:57] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:22:57] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:22:57] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:22:57] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:22:57] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:22:57] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:22:57] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:11] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:24:11] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:24:11] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:24:11] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:11] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:24:12] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:24:12] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:24:12] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:24:12] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:12] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:12] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:24:12] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:56] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:24:56] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:24:56] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:24:56] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:56] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:24:57] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:24:57] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:24:57] [ INFO ] [OdontologoService:50] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 13:24:57] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:57] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:24:57] [ WARN ] [OdontologoService:41] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 13:24:57] [ INFO ] [OdontologoService:57] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del paciente con id = 1
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:25:13] [ WARN ] [OdontologoService:39] Se realizo una operación de eliminación del paciente con id = 1
+[2022-12-12 13:25:13] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 1
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:25:25] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 1
+[2022-12-12 13:25:25] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:25:53] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:26:07] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:26:13] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:26:18] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:26:23] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:26:26] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:26:27] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:27:54] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:27:55] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:27:59] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:29:57] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:30:05] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:30:06] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:30:10] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:30:12] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:30:12] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:30:12] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:32:15] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:33:09] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:33:23] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:35:18] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:35:32] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:36:18] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:37:40] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:37:53] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:37:54] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:37:58] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:37:58] [ WARN ] [OdontologoService:39] Se realizo una operación de eliminación del paciente con id = 1
+[2022-12-12 13:38:02] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:38:07] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:38:09] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:38:17] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:38:20] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:38:22] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:41:39] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:41:45] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:41:47] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:41:47] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:41:47] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 1
+[2022-12-12 13:41:53] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:41:59] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:42:17] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:42:18] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:42:20] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:42:28] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:42:28] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:42:29] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:42:37] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:42:37] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:42:39] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:46:01] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:49:19] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:49:32] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 13:49:39] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:49:41] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:49:42] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:49:58] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:49:58] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:49:58] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:50:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:50:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:50:31] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno con id: null
+[2022-12-12 13:50:49] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:50:58] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:51:29] [ INFO ] [OdontologoService:67] Se inició una operación de listado de turnos
+[2022-12-12 13:53:27] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 13:53:34] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 13:53:35] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:53:40] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Diaz
+[2022-12-12 13:53:52] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: bentos
+[2022-12-12 13:53:54] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:54:11] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Diaz
+[2022-12-12 13:54:16] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:54:16] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 13:54:16] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno
+[2022-12-12 13:54:20] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 2
+[2022-12-12 13:54:20] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 2
+[2022-12-12 13:54:20] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno
+[2022-12-12 13:54:21] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 13:54:35] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 2
+[2022-12-12 13:54:35] [ WARN ] [OdontologoService:40] Se realizo una operación de eliminación del turno con id = 2
+[2022-12-12 13:54:41] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 13:54:43] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:54:46] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 13:55:04] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 13:55:08] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 13:55:11] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:39:03] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:39:10] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Diaz
+[2022-12-12 14:39:13] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:39:26] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Alvarez
+[2022-12-12 14:39:33] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 14:39:33] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 14:39:33] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno
+[2022-12-12 14:39:34] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 14:39:35] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:39:35] [ WARN ] [OdontologoService:40] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 14:39:37] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 14:39:39] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:39:40] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 14:39:40] [ WARN ] [OdontologoService:39] Se realizo una operación de eliminación del paciente con id = 1
+[2022-12-12 14:39:43] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:39:44] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:39:45] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 14:39:45] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 1
+[2022-12-12 14:43:47] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:44:03] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:44:30] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:44:45] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:47:03] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 2
+[2022-12-12 14:47:03] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 2
+[2022-12-12 14:47:06] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:47:30] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 14:47:30] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 14:47:30] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:47:30] [ INFO ] [OdontologoService:31] Se inició una operación de actualización del paciente con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 14:47:31] [ WARN ] [OdontologoService:39] Se realizo una operación de eliminación del paciente con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del paciente con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:53] Se inició una operación de listado de odontologos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:30] Se inició una operación de actualización del odontologo con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 14:47:31] [ WARN ] [OdontologoService:38] Se realizo una operación de eliminación del odontologo con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:48] Se inició una operación de búsqueda del odontologo con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:49] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:47:31] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:47:53] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:47:53] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 14:47:53] [ INFO ] [OdontologoService:30] Se inició una operación de guardado del turno
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:25] Se inició una operación de guardado del odontologo con apellido: Bentos
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:26] Se inició una operación de guardado del paciente con apellido: Bentos
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:49] Se inició una operación de actualización del turno con id = 1
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2022-12-12 14:47:54] [ WARN ] [OdontologoService:40] Se realizo una operación de eliminación del turno con id = 1
+[2022-12-12 14:47:54] [ INFO ] [OdontologoService:56] Se inició una operación de búsqueda del turno con id = 1
+[2023-01-01 17:25:21] [ INFO ] [OdontologoService:66] Se inició una operación de listado de turnos
