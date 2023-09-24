@@ -1,4 +1,4 @@
-package com.integrador.clinicaOdontologica.security;
+/* package com.integrador.clinicaOdontologica.security;
 
 
 import com.integrador.clinicaOdontologica.service.UsuarioService;
@@ -49,3 +49,4 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     }
 
 }
+*/
