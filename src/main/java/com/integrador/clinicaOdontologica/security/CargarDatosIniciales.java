@@ -1,4 +1,4 @@
-package com.integrador.clinicaOdontologica.security;
+/* package com.integrador.clinicaOdontologica.security;
 
 
 import com.integrador.clinicaOdontologica.entity.Usuario;
@@ -32,3 +32,4 @@ public class CargarDatosIniciales implements ApplicationRunner {
         usuarioRepository.save(usuario);
     }
 }
+*/
