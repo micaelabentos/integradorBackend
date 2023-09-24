@@ -1,4 +1,4 @@
-package com.integrador.clinicaOdontologica.security;
+/* package com.integrador.clinicaOdontologica.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -10,4 +10,4 @@ public class PasswordEncoder {
     public BCryptPasswordEncoder bCryptPasswordEncoder(){
         return new BCryptPasswordEncoder();
     }
-}
+} */
